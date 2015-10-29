@@ -1,0 +1,4 @@
+www.1123w-erfsd.com.pl
+www.onet.pl
+qewds@iwojdskdijd.com
+//([0-9a-z-]+)@([0-9a-z-]+)\.(pl|com)
